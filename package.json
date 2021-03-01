@@ -1,5 +1,5 @@
 {
-  "name": "Slash Janken LP",
+  "name": "slashjanken-lp",
   "private": true,
   "description": "Landing page for a Slack app, /janken, based on HiStaff's Gatsby Starter.",
   "version": "0.1.0",
