@@ -1,5 +1,5 @@
-<h1>
-  /janken landing page
-</h1>
+# /janken landing page
 
-This landing page is created based on HiStaff's gatsby starter kit.
+[Production site](https://slashjanken.xiz-kak.com/)
+
+This landing page is created based on the [HiStaff's gatsby starter kit](https://github.com/histaff/website-static).
