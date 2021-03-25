@@ -24,7 +24,8 @@ const PrivacyPage = () => (
                 </ul>
 
                 <h3>Usage Data</h3>
-                <p>We may also collect information about how the service is accessed and used ("Usage Data"). This Usage Data may include information such as your browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
+                <p>We also collect how you use the service. This may include your hands and result of the game, tendency of your hands selection, the time spent on the game and teammates whome you played with.</p>
+                <p>You can access these data by visiting the channel or thread you played but cannot modify your hands and the game result. If you need to delete these data, please contact us at <a href="mailto:slashjanken@gmail.com">slashjanken@gmail.com</a>.</p>
 
                 <h3>Disclosure Of Data</h3>
                 <p>We may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
@@ -37,7 +38,9 @@ const PrivacyPage = () => (
                 </ul>
 
                 <h3>Security Of Data</h3>
-                <p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
+                <p>Your personal and usage data is protected and encrypted both at rest and in transit though secure connections. We implement a variety of security measures to maintain the safety of your information. The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
+                <h3>Retention Of Data</h3>
+                <p>We use usage data of people who use our service to execute internal research to improve our service. If you stop using the service, your past game history can be accessed via channels or threads. We remove your personal and usage data after your administrator removes and/or stops using our service and sufficient time has passed to warrant data removal. Or you may directly contact us at <a href="mailto:slashjanken@gmail.com">slashjanken@gmail.com</a> to request data deletion.</p>
 
                 <h3>Changes To This Privacy Policy</h3>
                 <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
