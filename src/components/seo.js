@@ -20,6 +20,7 @@ function SEO({ description, lang, meta, title }) {
             title
             description
             author
+            slackAppId
           }
         }
       }
@@ -71,6 +72,10 @@ function SEO({ description, lang, meta, title }) {
         {
           name: `twitter:description`,
           content: metaDescription,
+        },
+        {
+          name: `slack-app-id`,
+          content: site.siteMetadata.slackAppId,
         },
       ].concat(meta)}
     />

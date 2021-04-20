@@ -3,6 +3,7 @@ module.exports = {
         title: `/janken`,
         description: `Play Janken with your teammates`,
         author: `@xiz_kak`,
+        slackAppId: `A01P3MLQLQ0`,
     },
     plugins: [
         `gatsby-plugin-react-helmet`,
