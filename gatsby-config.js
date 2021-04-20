@@ -3,6 +3,7 @@ module.exports = {
         title: `/janken`,
         description: `Play Janken with your teammates`,
         author: `@xiz_kak`,
+        siteUrl: `https://slashjanken.xiz-kak.com`,
         slackAppId: `A01P3MLQLQ0`,
     },
     plugins: [

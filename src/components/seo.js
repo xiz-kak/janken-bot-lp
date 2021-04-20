@@ -20,6 +20,7 @@ function SEO({ description, lang, meta, title }) {
             title
             description
             author
+            siteUrl
             slackAppId
           }
         }
@@ -47,7 +48,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image`,
-          content: ogpImage,
+          content: `${site.siteMetadata.siteUrl}${ogpImage}`,
         },
         {
           property: `og:description`,
